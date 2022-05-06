@@ -1,0 +1,107 @@
+<style>
+#welcome {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+#welcome h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    font-family: 'Noto Sans', verdana, "sans-serif";
+    font-weight: 700;
+}
+#welcome h1 {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+#welcome h2 {
+    font-size: 30px;
+}
+#welcome a {
+    text-decoration: underline;
+}
+.page-header.position-relative.row {
+    display: none;
+}
+</style>
+
+<div id="welcome">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <h1>Welcome to T4</h1>
+      <p>Terminalfour (T4) is ECC's web content management system (CMS) to update Elgin Community College's websites.</p>
+    </div>
+  </div>
+  <div class="panel panel-primary">
+    <div class="panel-body" style="background-color: #005195;color:white;">
+      <h2>Workshop Documents</h2>
+        <p>Files used for the <strong>Getting Started Using Terminalfour</strong> training class.</p>
+      <ol>
+        <li><a href="https://elgin.edu/media/website/sample-event.pdf" title="Download file" target="new" style="color: white;">Sample Event - PDF</a></li>
+        <li><a href="https://elgin.edu/media/website/sample-announcement.pdf" title="Download file" target="new" style="color: white;">Sample Announcement - PDF</a></li>
+        <li><a style="color: white;" href="https://elgin.edu/media/website/Campus-catering-_-menu-2021.pdf" title="Download file" target="new">Sample Document to upload - PDF</a></li>
+        <li><a style="color: white;" href="https://elgin.edu/media/website/About_Bookstore-2021--.docx" title="Download file" target="new">Sample Document to upload - DOC</a></li>
+      </ol>
+      <p><a class="btn btn-white" style="color: white;" href="https://drive.google.com/drive/folders/1JETc99P0v9vbw72qDAI9geQODdRxT1wQ?usp=sharing" title="Open Google Drive" target="_blank">Google Drive Folder</a></p>
+<hr />
+<p>Need a change to your Space? <a style="color: white;" href="https://elgin.atlassian.net/servicedesk/customer/portals" title="Open a web request" target="_blank">Submit a web request</a></p>
+<p class="small">*Web Services can rename your space and add/delete folders.</p>
+    </div>
+  </div>
+  <h2>T4 Resources</h2>
+  <hr/>
+  <h3>Training Documentation</h3>
+  <ul>
+    <li><a href="https://elgin.edu/media/elginedu/cms-resources/T4-end-user-training.pdf" title="T4 End User Training">End user training - PDF</a></li>
+    <li><a href="https://elgin.edu/media/elginedu/cms-resources/Adding-images.pdf" title="Adding images">Adding images - PDF</a></li>
+    <li><a href="https://elgin.edu/media/elginedu/cms-resources/T4-content-approval-instructions.pdf" title="T4 content approval instructions">Content approval instructions - PDF</a></li>
+	<li><a href="https://elgin.edu/media/elginedu/cms-resources/10-easy-fixes-for-making-content-accessible.pdf" title="Download file" target="new">10 easy fixes for making content accessible - PDF</a></li>
+  </ul>
+  <h3>About Spaces</h3>
+  <p>Learn how to create a Space on my.elgin.edu. <a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/" title="About Spaces" target="_blank">Learn more about spaces</a></p>
+  <ul>
+    <li><a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/example-a/" title="Example A" target="_blank">Example A</a></li>
+    <li><a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/example-b/" title="Example B" target="_blank">Example B</a></li>
+    <li><a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/example-c/" title="Example C" target="_blank">Example C</a></li>
+    <li><a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/example-d/" title="Example D" target="_blank">Example D</a></li>
+  </ul>
+  <h3>Content Types</h3>
+  <p>Get an overall understanding of each content type to better plan your page.</p>
+  <ul>
+    <li><a href="https://www.elgin.edu/info/training/t4-cms/" title="elgin.edu content types" target="_blank">elgin.edu</a></li>
+    <li><a href="https://my.elgin.edu/knowledge/training-documents/content-types/" title="View my.elgin.edu content types" target="_blank">my.elgin.edu</a></li>
+  </ul>
+
+  <h2>Website Standards</h2>
+  <hr/>
+  <h3>Writing for the Web</h3>
+  <p>Preferences for  punctuation and style of many commonly used words and phrases. <a href="https://elgin.edu/media/elginedu/cms-resources/ECC-writing-for-the-web-style-guide.pdf" title="ECC Style Guide">Download ECC style guide - PDF</a></p>
+
+  <h3>Making Content Accessibile</h3>
+  <p>Provides an overview of accessibility and covers such topics as why accessibility is important, tips for creating accessible web content, writing text to follow accessibilty guidelines, using lists within accessible content, creating accessible hyperlinks and more. <a href="https://elgin.edu/accessibility/accessible-content/" target="_blank">Learn more about accessibile content</a></p>
+  
+  <h3>Website Accessibility</h3>
+  <p>ECC incorporates web accessibility into its development and content management processes and adheres to the Web Content Accessibility Guidelines (WCAG) 2.0. <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/" title="Link leaves site. Visit w3.org/WAI/fundamentals/accessibility-intro" target="_blank">Learn more about accessibility</a></p>
+  
+  <h3>Media in T4</h3>
+  <p><a href="https://my.elgin.edu/spaces/marketing-and-communications/web-services/knowledge/#general-content-82866" title="View website style guide" target="_blank">File naming conventions</a></p>
+  <p><a href="https://my.elgin.edu/spaces/marketing-and-communications/web-services/knowledge/#general-content-82866" title="View website style guide" target="_blank">Adding Media to the Media Library</a></p>
+
+<!--  <h3>Website Style Guide <span class="small">(Working Draft)</span></h3>
+  <p>Logos, fonts, typography, color and more. <a href="http://elgin.edu/archive/newweb/style-guide/" title="View website style guide" target="_blank">View guide</a></p>
+-->
+  <h3>Video for the Web</h3>
+  <p>Resources and recommendations when compressing video for the web.</p>
+  
+  <h2>Other Resources</h2>
+  <hr/>
+  <h3>Campus Map Markers</h3>
+  <p>Use these markers if you need to link to specific point on campus map.</p>
+  <ul>
+    <li><a href="https://elgin.edu/archive/newweb/style-guide/campus-map-links.html" title="Campus Map Markers" target="_blank">Campus Map Markers (Custom Links)</a></li>
+  </ul>
+  <h3>ECCtv Templates</h3>
+  <p>Use when creating a general T.V. slide for events, resources, announcements and program information.</p>
+  <ul>
+    <li><a href="https://www.elgin.edu/info/training/ecc-tv-templates/" title="ECCtv templates" target="_blank">ECCtv Templates</a></li>
+  </ul>  
+</div>
