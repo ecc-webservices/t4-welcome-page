@@ -1,3 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+
 <style>
 #welcome {
     font-family: Arial, sans-serif;
@@ -36,10 +46,10 @@
       <h2>Workshop Documents</h2>
         <p>Files used for the <strong>Getting Started Using Terminalfour</strong> training class.</p>
       <ol>
-        <li><a href="https://elgin.edu/media/website/sample-event.pdf" title="Download file" target="new" style="color: white;">Sample Event - PDF</a></li>
-        <li><a href="https://elgin.edu/media/website/sample-announcement.pdf" title="Download file" target="new" style="color: white;">Sample Announcement - PDF</a></li>
-        <li><a style="color: white;" href="https://elgin.edu/media/website/Campus-catering-_-menu-2021.pdf" title="Download file" target="new">Sample Document to upload - PDF</a></li>
-        <li><a style="color: white;" href="https://elgin.edu/media/website/About_Bookstore-2021--.docx" title="Download file" target="new">Sample Document to upload - DOC</a></li>
+        <li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/website/sample-event.pdf" title="Download file" target="new" style="color: white;">Sample Event - PDF</a></li>
+        <li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/website/sample-announcement.pdf" title="Download file" target="new" style="color: white;">Sample Announcement - PDF</a></li>
+        <li><a style="color: white;" href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/website/Campus-catering-_-menu-2021.pdf" title="Download file" target="new">Sample Document to upload - PDF</a></li>
+        <li><a style="color: white;" href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/website/About_Bookstore-2021--.docx" title="Download file" target="new">Sample Document to upload - DOC</a></li>
       </ol>
       <p><a class="btn btn-white" style="color: white;" href="https://drive.google.com/drive/folders/1JETc99P0v9vbw72qDAI9geQODdRxT1wQ?usp=sharing" title="Open Google Drive" target="_blank">Google Drive Folder</a></p>
 <hr />
@@ -51,10 +61,10 @@
   <hr/>
   <h3>Training Documentation</h3>
   <ul>
-    <li><a href="https://elgin.edu/media/elginedu/cms-resources/T4-end-user-training.pdf" title="T4 End User Training">End user training - PDF</a></li>
-    <li><a href="https://elgin.edu/media/elginedu/cms-resources/Adding-images.pdf" title="Adding images">Adding images - PDF</a></li>
-    <li><a href="https://elgin.edu/media/elginedu/cms-resources/T4-content-approval-instructions.pdf" title="T4 content approval instructions">Content approval instructions - PDF</a></li>
-	<li><a href="https://elgin.edu/media/elginedu/cms-resources/10-easy-fixes-for-making-content-accessible.pdf" title="Download file" target="new">10 easy fixes for making content accessible - PDF</a></li>
+    <li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/elginedu/cms-resources/T4-end-user-training.pdf" title="T4 End User Training">End user training - PDF</a></li>
+    <li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/elginedu/cms-resources/Adding-images.pdf" title="Adding images">Adding images - PDF</a></li>
+    <li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/elginedu/cms-resources/T4-content-approval-instructions.pdf" title="T4 content approval instructions">Content approval instructions - PDF</a></li>
+	<li><a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/elginedu/cms-resources/10-easy-fixes-for-making-content-accessible.pdf" title="Download file" target="new">10 easy fixes for making content accessible - PDF</a></li>
   </ul>
   <h3>About Spaces</h3>
   <p>Learn how to create a Space on my.elgin.edu. <a href="https://my.elgin.edu/knowledge/training-documents/about-spaces/" title="About Spaces" target="_blank">Learn more about spaces</a></p>
@@ -74,7 +84,7 @@
   <h2>Website Standards</h2>
   <hr/>
   <h3>Writing for the Web</h3>
-  <p>Preferences for  punctuation and style of many commonly used words and phrases. <a href="https://elgin.edu/media/elginedu/cms-resources/ECC-writing-for-the-web-style-guide.pdf" title="ECC Style Guide">Download ECC style guide - PDF</a></p>
+  <p>Preferences for  punctuation and style of many commonly used words and phrases. <a href="https://pxl-elginedu.terminalfour.net/prod01/cdn-pxl-elginedu-prod/media/elginedu/cms-resources/ECC-writing-for-the-web-style-guide.pdf" title="ECC Style Guide">Download ECC style guide - PDF</a></p>
 
   <h3>Making Content Accessibile</h3>
   <p>Provides an overview of accessibility and covers such topics as why accessibility is important, tips for creating accessible web content, writing text to follow accessibilty guidelines, using lists within accessible content, creating accessible hyperlinks and more. <a href="https://elgin.edu/accessibility/accessible-content/" target="_blank">Learn more about accessibile content</a></p>
@@ -105,3 +115,6 @@
     <li><a href="https://www.elgin.edu/info/training/ecc-tv-templates/" title="ECCtv templates" target="_blank">ECCtv Templates</a></li>
   </ul>  
 </div>
+
+</body>
+</html>
